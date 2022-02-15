@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains information regarding application: implicity
   cartels.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/14-12-economic-applications-of-game-theory-fall-2012/35e1783c86a01e91d6d0463121260c8d_MIT14_12F12_chapter13.pdf
+file: /media/courses/14-12-economic-applications-of-game-theory-fall-2012/35e1783c86a01e91d6d0463121260c8d_MIT14_12F12_chapter13.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Session 13 Lecture Notes
 uid: 35e1783c-86a0-1e91-d6d0-463121260c8d
