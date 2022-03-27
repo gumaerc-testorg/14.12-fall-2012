@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3619ba15-a532-bec2-1868-a6113e789a80
 resourcetype: Document
 title: 2012 Midterm 1
 uid: 652cd4e4-8c21-6fba-2c4c-4501ed2c76f0

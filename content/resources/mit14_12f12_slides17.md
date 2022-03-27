@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 7c7e18b1-ba2f-3029-6ec8-157da4021df1
 resourcetype: Document
 title: Session 17 Lecture Slides
 uid: 297ac916-c057-ab6d-8183-d2b740a4ed1a

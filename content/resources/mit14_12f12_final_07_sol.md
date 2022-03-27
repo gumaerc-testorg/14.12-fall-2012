@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3619ba15-a532-bec2-1868-a6113e789a80
 resourcetype: Document
 title: 2007 Final Exam
 uid: 4dc8aeab-ea7c-a683-43e2-7a83ff40b84d

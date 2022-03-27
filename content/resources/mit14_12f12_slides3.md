@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
+parent_uid: 7c7e18b1-ba2f-3029-6ec8-157da4021df1
 resourcetype: Document
 title: Session 3 Lecture Slides
 uid: 639bdf70-9a7b-fa2f-ea20-47244a6bfa73

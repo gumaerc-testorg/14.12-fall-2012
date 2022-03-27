@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 3619ba15-a532-bec2-1868-a6113e789a80
 resourcetype: Document
 title: Problems from Past Exams
 uid: 947b34e0-9116-f448-f48c-84147340ad81
