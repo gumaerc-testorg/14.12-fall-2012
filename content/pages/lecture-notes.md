@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the lecture notes for the course, organized by
+  chapter and topic.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -31,7 +33,7 @@ LECTURES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chap1_intro)
+{{% resource_link be4ea56c-748b-36e5-808f-a7d93269f1d1 "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +45,7 @@ Introduction
 Decision Theory
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter2)
+{{% resource_link dc2132d3-65c6-f2ab-8b35-f9b5976574f6 "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +57,7 @@ Decision Theory
 Representation of Games
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter3)
+{{% resource_link b90ef0b9-3088-8cc7-a182-8d5eaf91f5c9 "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +69,7 @@ Representation of Games
 Dominance
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter4)
+{{% resource_link 0136e76d-cd45-a6f1-d7b3-86c563452ff0 "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -79,7 +81,7 @@ Dominance
 Rationalizability
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter5)
+{{% resource_link 2bdf274a-0b9a-16d2-dfe6-0c49add6fe92 "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,7 +93,7 @@ Rationalizability
 Nash Equilibrium
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter6)
+{{% resource_link 067ddd07-4ea7-f4de-2e4d-d6fd188b168f "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +105,7 @@ Nash Equilibrium
 Application: Imperfect Competition
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter7)
+{{% resource_link a870a723-80a5-84e8-d1ff-d2b34fa24c9e "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -115,7 +117,7 @@ Application: Imperfect Competition
 Further Applications
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter8)
+{{% resource_link bed7b26d-eabe-5b01-3d7e-6df23d3b9e66 "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -127,7 +129,7 @@ Further Applications
 Backward Induction
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter9)
+{{% resource_link 4b441257-5dc7-4593-c9d9-c59e94427b69 "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +141,7 @@ Backward Induction
 Application: Negotiation
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter10)
+{{% resource_link bd9e085d-dc6a-c588-af52-505bb228177a "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -151,7 +153,7 @@ Application: Negotiation
 Subgame-Perfect Nash Equilibrium
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter11)
+{{% resource_link 114453d6-7d6f-d1a1-d72e-cedb29bd88ef "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -163,7 +165,7 @@ Subgame-Perfect Nash Equilibrium
 Repeated Games
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter12)
+{{% resource_link 54f153ef-7ed7-800f-367c-e2b4021a18db "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +177,7 @@ Repeated Games
 Application: Implicit Cartels
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter13)
+{{% resource_link 35e1783c-86a0-1e91-d6d0-463121260c8d "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -187,7 +189,7 @@ Application: Implicit Cartels
 Static Games with Incomplete Information
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter14)
+{{% resource_link 8d21a494-0548-a7c8-01d4-cc18d9b88bb1 "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,7 +201,7 @@ Static Games with Incomplete Information
 Static Applications with Incomplete Information
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter15)
+{{% resource_link 777164ba-ec3d-203b-c6da-462488d371e0 "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -211,7 +213,7 @@ Static Applications with Incomplete Information
 Dynamic Games with Incomplete Information
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture notes (PDF)]({{< baseurl >}}/resources/mit14_12f12_chapter16)
+{{% resource_link 9846cfaf-d472-d510-cad9-3dfdadf2fd06 "Lecture notes (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
