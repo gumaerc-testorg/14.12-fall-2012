@@ -5,6 +5,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/c375b6c43824
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

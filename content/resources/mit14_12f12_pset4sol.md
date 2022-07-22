@@ -5,6 +5,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/a45d206a6b76
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Problem Set 4 Solutions
 uid: a45d206a-6b76-65b3-e805-7596f36efeb2
 ---
 This resource contains information regarding problem set 4 solutions.
-

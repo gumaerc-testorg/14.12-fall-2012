@@ -5,6 +5,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/dade1b4a00e9
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 15 Lecture Slides
 uid: dade1b4a-00e9-c7f7-ed58-13d676382a9f
 ---
 This resource contains information regarding implicit cartels.
-

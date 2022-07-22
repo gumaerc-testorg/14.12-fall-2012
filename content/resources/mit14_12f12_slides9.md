@@ -5,6 +5,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/b34450023435
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ' Session 9 Lecture Slides'
 uid: b3445002-3435-3d97-e383-e71c2e1d002a
 ---
 This resource contains information regarding negotiation.
-

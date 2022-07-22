@@ -5,6 +5,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/bd9e085ddc6a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 10 Lecture Notes
 uid: bd9e085d-dc6a-c588-af52-505bb228177a
 ---
 This resource contains information regarding subgame-perfect nash equilibrium.
-

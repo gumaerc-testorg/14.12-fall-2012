@@ -5,6 +5,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/652cd4e48c21
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2012 Midterm 1
 uid: 652cd4e4-8c21-6fba-2c4c-4501ed2c76f0
 ---
 This resource contains information regarding 2012 midterm 1.
-

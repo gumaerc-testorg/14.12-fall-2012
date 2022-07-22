@@ -5,6 +5,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/6f34e5cd6669
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 12 Lecture Slides
 uid: 6f34e5cd-6669-7516-8b52-65c2abee96f6
 ---
 This resource contains information regarding finitely repeated games.
-

@@ -5,6 +5,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/8f0014fc4a3f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 13 Lecture Slides
 uid: 8f0014fc-4a3f-c37e-9125-3f0ff45307e6
 ---
 This resource contains information regarding infinitely repeated games.
-

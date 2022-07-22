@@ -5,6 +5,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/e9b804c79a1f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 2 Lecture Slides
 uid: e9b804c7-9a1f-7536-e482-95c1e40cf271
 ---
 This resource contains information regarding decision theory.
-

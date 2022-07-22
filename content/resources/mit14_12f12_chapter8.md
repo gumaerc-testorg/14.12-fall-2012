@@ -5,6 +5,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/bed7b26deabe
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 8 Lecture Notes
 uid: bed7b26d-eabe-5b01-3d7e-6df23d3b9e66
 ---
 This resource contains information regarding backward induction.
-

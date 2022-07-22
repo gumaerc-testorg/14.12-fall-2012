@@ -5,6 +5,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/624bf7cc4b26
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Slides
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 1 Lecture Slides
 uid: 624bf7cc-4b26-e299-62b1-c6c9814ceae5
 ---
 This resource contains information regarding introduction.
-

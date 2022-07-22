@@ -5,6 +5,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/4dc8aeabea7c
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 2007 Final Exam
 uid: 4dc8aeab-ea7c-a683-43e2-7a83ff40b84d
 ---
 This resource contains information regarding 2007 final solution.
-

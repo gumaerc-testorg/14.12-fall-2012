@@ -6,6 +6,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/9846cfafd472
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Session 16 Lecture Notes
 uid: 9846cfaf-d472-d510-cad9-3dfdadf2fd06
 ---
 This resource contains information regarding dynamic games with incomplete information.
-

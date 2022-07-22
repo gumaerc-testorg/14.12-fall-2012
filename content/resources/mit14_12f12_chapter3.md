@@ -5,6 +5,7 @@ file: /courses/14-12-economic-applications-of-game-theory-fall-2012/b90ef0b93088
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Session 3 Lecture Notes
 uid: b90ef0b9-3088-8cc7-a182-8d5eaf91f5c9
 ---
 This resource contains information regarding representation of games.
-
