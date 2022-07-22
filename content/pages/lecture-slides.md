@@ -1,10 +1,15 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics along with the lectures
+  slides used during the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Slides
 uid: 7c7e18b1-ba2f-3029-6ec8-157da4021df1
 ---
 
-The lecture notes are organized into chapters. You can see all of the chapters and topics in the [Table of Contents of Topics (PDF)]({{< baseurl >}}/resources/mit14_12f12_tableofcontnts).
+The lecture notes are organized into chapters. You can see all of the chapters and topics in the {{% resource_link 61572392-501c-282a-c819-68a9fdd897ec "Table of Contents of Topics (PDF)" %}}.
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -30,7 +35,7 @@ FILES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF)]({{< baseurl >}}/resources/mit14_12f12_slides1)
+{{% resource_link 624bf7cc-4b26-e299-62b1-c6c9814ceae5 "Lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Introduction
 Decision Theory
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 3.1MB)]({{< baseurl >}}/resources/mit14_12f12_slides2)
+{{% resource_link e9b804c7-9a1f-7536-e482-95c1e40cf271 "Lecture slides (PDF - 3.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ Decision Theory
 Representation of Games
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 2.5MB)]({{< baseurl >}}/resources/mit14_12f12_slides3)
+{{% resource_link 639bdf70-9a7b-fa2f-ea20-47244a6bfa73 "Lecture slides (PDF - 2.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -66,7 +71,7 @@ Representation of Games
 Dominance
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 1.4MB)]({{< baseurl >}}/resources/mit14_12f12_slides4)
+{{% resource_link 27c874fe-c3bb-4220-5e2c-17145fa41b06 "Lecture slides (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +83,7 @@ Dominance
 Rationalizability
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 1.5MB)]({{< baseurl >}}/resources/mit14_12f12_slides5)
+{{% resource_link d52f7e87-66b8-d588-3dfc-a292ba770585 "Lecture slides (PDF - 1.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +95,7 @@ Rationalizability
 Nash Equilibrium
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit14_12f12_slides6)
+{{% resource_link 16d5f5fb-7bd3-a71f-ed34-ea57f40e0dc3 "Lecture slides (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ Nash Equilibrium
 Imperfect Competition
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 1.8MB)]({{< baseurl >}}/resources/mit14_12f12_slides7)
+{{% resource_link cf416d44-29a1-9258-2d93-347aae1d0052 "Lecture slides (PDF - 1.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +119,7 @@ Imperfect Competition
 Backward Induction
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF)]({{< baseurl >}}/resources/mit14_12f12_slides8)
+{{% resource_link a20da699-09e2-1021-11a0-ab64ad3fcf13 "Lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +131,7 @@ Backward Induction
 Negotiation
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 1.7MB)]({{< baseurl >}}/resources/mit14_12f12_slides9)
+{{% resource_link b3445002-3435-3d97-e383-e71c2e1d002a "Lecture slides (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -138,7 +143,7 @@ Negotiation
 Subgame-Perfect Equilibrium
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 1.6MB)]({{< baseurl >}}/resources/mit14_12f12_slides10)
+{{% resource_link 70ea95db-f889-aee7-9fe5-154f94856535 "Lecture slides (PDF - 1.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ Subgame-Perfect Equilibrium
 Single Deviation-Principle
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF)]({{< baseurl >}}/resources/mit14_12f12_slides11)
+{{% resource_link 8ce61f4f-8555-0c2e-7ff9-1f8c1d7a99f5 "Lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -162,7 +167,7 @@ Single Deviation-Principle
 Finitely Repeated Games
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit14_12f12_slides12)
+{{% resource_link 6f34e5cd-6669-7516-8b52-65c2abee96f6 "Lecture slides (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -174,7 +179,7 @@ Finitely Repeated Games
 Infinitely Repeated Games
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF 1.2MB)]({{< baseurl >}}/resources/mit14_12f12_slides13)
+{{% resource_link 8f0014fc-4a3f-c37e-9125-3f0ff45307e6 "Lecture slides (PDF 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -186,7 +191,7 @@ Infinitely Repeated Games
 Infinitely Repeated Games II
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF)]({{< baseurl >}}/resources/mit14_12f12_slides14)
+{{% resource_link f685878d-04e9-ac65-46a7-91b8d3401af1 "Lecture slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +203,7 @@ Infinitely Repeated Games II
 Implicit Cartels
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 1.1MB)]({{< baseurl >}}/resources/mit14_12f12_slides15)
+{{% resource_link dade1b4a-00e9-c7f7-ed58-13d676382a9f "Lecture slides (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -210,7 +215,7 @@ Implicit Cartels
 Incomplete Information (Static Case)
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 1.2MB)]({{< baseurl >}}/resources/mit14_12f12_slides16)
+{{% resource_link c2e12cf1-0cc6-38dc-b529-fdf66146fabd "Lecture slides (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -222,7 +227,7 @@ Incomplete Information (Static Case)
 Static Applications with Incomplete Information
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 3.5MB)]({{< baseurl >}}/resources/mit14_12f12_slides17)
+{{% resource_link 297ac916-c057-ab6d-8183-d2b740a4ed1a "Lecture slides (PDF - 3.5MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -234,7 +239,7 @@ Static Applications with Incomplete Information
 Dynamic Games with Incomplete Information
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture slides (PDF - 3.9MB)]({{< baseurl >}}/resources/mit14_12f12_slides18)
+{{% resource_link 0cfe857a-451d-9235-da44-69371f4c4bd5 "Lecture slides (PDF - 3.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
