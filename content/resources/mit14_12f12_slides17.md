@@ -26,4 +26,3 @@ video_metadata:
   youtube_id: ''
 ---
 This resource contains information regarding static applications wth incomplete information.
-
