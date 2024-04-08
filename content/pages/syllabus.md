@@ -15,10 +15,10 @@ Reciations: 1 session / week
 
 ## Prerequisites
 
-- [_14.01 Principles of Microeconomics_](/courses/14-01sc-principles-of-microeconomics-fall-2011)
-- [_14.03 Microeconomic Theory and Public Policy_](/courses/14-03-microeconomic-theory-and-public-policy-fall-2016)
-- [_14.04 Intermediate Microeconomic Theory_](/courses/14-04-intermediate-microeconomic-theory-fall-2006)
-- [_6.041 Probablistic Systems Analysis and Applied Probability_](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006)
+- [*14.01 Principles of Microeconomics*](/courses/14-01sc-principles-of-microeconomics-fall-2011)
+- [*14.03 Microeconomic Theory and Public Policy*](/courses/14-03-microeconomic-theory-and-public-policy-fall-2016)
+- [*14.04 Intermediate Microeconomic Theory*](/courses/14-04-intermediate-microeconomic-theory-fall-2020/)
+- [*6.041 Probablistic Systems Analysis and Applied Probability*](/courses/6-041-probabilistic-systems-analysis-and-applied-probability-spring-2006)
 
 Bear in mind that you should be at ease with basic probability theory and calculus, and more importantly, you should be used to thinking in mathematical terms. In particular, in addition to 14.01, a student must have taken either 14.03, or 14.04, or an intermediate course in probability theory. Otherwise, the student needs my explicit consent. In any case, if you are taking this course, you should be prepared to work hard.
 
@@ -36,7 +36,7 @@ Given the class size and the difficulty of the subject, you may not follow all o
 
 The main source of the material is the detailed lecture notes I will be posting. The official textbook is:
 
-Gibbons, Robert. _Game Theory for Applied Economists_. Princeton University Press, 1992. ISBN: 9780691003955. \[Preview with [Google Books](http://books.google.com/books?id=8ygxf2WunAIC&printsec=frontcover)\]
+Gibbons, Robert. *Game Theory for Applied Economists*. Princeton University Press, 1992. ISBN: 9780691003955. \[Preview with {{% resource_link "48ef3b09-cbef-46d6-802a-6589c4d50ed3" "Google Books" %}}\]
 
 ## Grading
 
