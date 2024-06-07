@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding incomplete information (static
   case).
 file: /courses/14-12-economic-applications-of-game-theory-fall-2012/c2e12cf10cc638dcb529fdf66146fabd_MIT14_12F12_slides16.pdf
+file_size: 1292058
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
