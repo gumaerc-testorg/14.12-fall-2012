@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding nash equilibrium.
 file: /courses/14-12-economic-applications-of-game-theory-fall-2012/16d5f5fb7bd3a71fed34ea57f40e0dc3_MIT14_12F12_slides6.pdf
+file_size: 1202241
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This resource contains information regarding static applications wi
   incomplete information.
 draft: false
 file: /courses/14-12-economic-applications-of-game-theory-fall-2012/0cfe857a451d9235da4469371f4c4bd5_MIT14_12F12_slides18.pdf
+file_size: 4131760
 file_type: application/pdf
 image_metadata:
   caption: ''
