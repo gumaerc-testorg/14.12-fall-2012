@@ -36,7 +36,7 @@ Given the class size and the difficulty of the subject, you may not follow all o
 
 The main source of the material is the detailed lecture notes I will be posting. The official textbook is:
 
-Gibbons, Robert. *Game Theory for Applied Economists*. Princeton University Press, 1992. ISBN: 9780691003955. \[Preview with {{% resource_link "48ef3b09-cbef-46d6-802a-6589c4d50ed3" "Google Books" %}}\]
+Gibbons, Robert. *Game Theory for Applied Economists*. Princeton University Press, 1992. ISBN: 9780691003955. \[Preview with [Google Books](http://books.google.com/books?id=8ygxf2WunAIC&printsec=frontcover)\]
 
 ## Grading
 
