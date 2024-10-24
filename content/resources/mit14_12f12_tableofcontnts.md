@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding table of contents.
-file: /courses/14-12-economic-applications-of-game-theory-fall-2012/61572392501c282ac81968a9fdd897ec_MIT14_12F12_tableofcontnts.pdf
+file: /ol-ocw-studio-app/courses/14-12-economic-applications-of-game-theory-fall-2012/61572392501c282ac81968a9fdd897ec_MIT14_12F12_tableofcontnts.pdf
 file_size: 79983
 file_type: application/pdf
 learning_resource_types:
