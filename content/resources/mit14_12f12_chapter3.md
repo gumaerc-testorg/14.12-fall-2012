@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding representation of games.
-file: /courses/14-12-economic-applications-of-game-theory-fall-2012/b90ef0b930888cc7a1828d5eaf91f5c9_MIT14_12F12_chapter3.pdf
+file: /ol-ocw-studio-app/courses/14-12-economic-applications-of-game-theory-fall-2012/b90ef0b930888cc7a1828d5eaf91f5c9_MIT14_12F12_chapter3.pdf
 file_size: 429483
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding dynamic games with incomplete
   information.
-file: /courses/14-12-economic-applications-of-game-theory-fall-2012/9846cfafd472d510cad93dfdadf2fd06_MIT14_12F12_chapter16.pdf
+file: /ol-ocw-studio-app/courses/14-12-economic-applications-of-game-theory-fall-2012/9846cfafd472d510cad93dfdadf2fd06_MIT14_12F12_chapter16.pdf
 file_size: 585637
 file_type: application/pdf
 learning_resource_types:
