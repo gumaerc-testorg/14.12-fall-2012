@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding static applications with
   incomplete information.
-file: /ol-ocw-studio-app/courses/14-12-economic-applications-of-game-theory-fall-2012/777164baec3d203bc6da462488d371e0_MIT14_12F12_chapter15.pdf
+file: /courses/14-12-economic-applications-of-game-theory-fall-2012/777164baec3d203bc6da462488d371e0_MIT14_12F12_chapter15.pdf
 file_size: 446701
 file_type: application/pdf
 learning_resource_types:
