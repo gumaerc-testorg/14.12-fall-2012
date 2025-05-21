@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding finitely repeated games.
-file: /ol-ocw-studio-app/courses/14-12-economic-applications-of-game-theory-fall-2012/6f34e5cd666975168b5265c2abee96f6_MIT14_12F12_slides12.pdf
+file: /courses/14-12-economic-applications-of-game-theory-fall-2012/6f34e5cd666975168b5265c2abee96f6_MIT14_12F12_slides12.pdf
 file_size: 1155757
 file_type: application/pdf
 learning_resource_types:
