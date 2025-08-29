@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding problem set 5.
-file: /courses/14-12-economic-applications-of-game-theory-fall-2012/8b2fb653beb3051314806bbf65ae3a86_MIT14_12F12_pset5.pdf
+file: /ol-ocw-studio-app/courses/14-12-economic-applications-of-game-theory-fall-2012/8b2fb653beb3051314806bbf65ae3a86_MIT14_12F12_pset5.pdf
 file_size: 93385
 file_type: application/pdf
 learning_resource_types:

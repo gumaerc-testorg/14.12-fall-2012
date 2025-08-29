@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding dominance.
-file: /courses/14-12-economic-applications-of-game-theory-fall-2012/27c874fec3bb42205e2c17145fa41b06_MIT14_12F12_slides4.pdf
+file: /ol-ocw-studio-app/courses/14-12-economic-applications-of-game-theory-fall-2012/27c874fec3bb42205e2c17145fa41b06_MIT14_12F12_slides4.pdf
 file_size: 1453477
 file_type: application/pdf
 learning_resource_types:
