@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding backward induction.
-file: /courses/14-12-economic-applications-of-game-theory-fall-2012/bed7b26deabe5b013d7e6df23d3b9e66_MIT14_12F12_chapter8.pdf
+file: /ol-ocw-studio-app/courses/14-12-economic-applications-of-game-theory-fall-2012/bed7b26deabe5b013d7e6df23d3b9e66_MIT14_12F12_chapter8.pdf
 file_size: 267175
 file_type: application/pdf
 learning_resource_types:
