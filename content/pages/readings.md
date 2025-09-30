@@ -8,7 +8,7 @@ uid: 39634e12-e49f-b3c8-d949-d88592e9222a
 ---
 ## Recommended Books (Especially Useful for the Exercises)
 
-![Buy at MIT Press](/images/mp_logo.gif) Dutta, Prajit. [_Strategies and Games: Theory and Practice_](https://mitpress.mit.edu/9780262041690). MIT Press, 1999. ISBN: 9780262041690. \[Preview with [Google Books](http://books.google.com/books?id=m1apPLqiIEkC&printsec=frontcover)\]
+![Buy at MIT Press](/images/mp_logo.gif) Dutta, Prajit. {{% resource_link "f1056458-b127-4f3b-84e3-ff876fbbaf35" "_Strategies and Games: Theory and Practice_" %}}. MIT Press, 1999. ISBN: 9780262041690. \[Preview with {{% resource_link "8131ff5a-3de2-4896-ab1d-17eb944d2388" "Google Books" %}}\]
 
 Watson, Joel. _Strategy: An Introduction to Game Theory_. W.W. Norton & Company, 2007. ISBN: 9780393929348.
 
@@ -18,9 +18,9 @@ Kreps, David. _A Course in Microeconomic Theory_. Princeton University Press, 19
 
 These two books are very good but harder than the level at which the course is pitched.
 
-![Buy at MIT Press](/images/mp_logo.gif) Fudenberg, Drew, and Jean Tirole. [_Game Theory_](https://mitpress.mit.edu/9780262061414). MIT Press, 1991. ISBN: 9780262061414. \[Preview with [Google Books](http://books.google.com/books?id=pFPHKwXro3QC&printsec=frontcover)\]
+![Buy at MIT Press](/images/mp_logo.gif) Fudenberg, Drew, and Jean Tirole. {{% resource_link "8eecaa5d-6adb-409b-b39f-3b29ed702692" "_Game Theory_" %}}. MIT Press, 1991. ISBN: 9780262061414. \[Preview with {{% resource_link "5cbc7761-0fd8-4502-8d7c-93801f92fe4f" "Google Books" %}}\]
 
-![Buy at MIT Press](/images/mp_logo.gif) Osborne, Martin, and Ariel Rubinstein.  _A Course in Game Theory_. MIT Press, 1994. ISBN: 9780262650403. \[Preview with [Google Books](http://books.google.com/books?id=5ntdaYX4LPkC&printsec=frontcover)\]
+![Buy at MIT Press](/images/mp_logo.gif) Osborne, Martin, and Ariel Rubinstein.  _A Course in Game Theory_. MIT Press, 1994. ISBN: 9780262650403. \[Preview with {{% resource_link "7f70cc1a-5a72-4a83-a851-b92312b08e31" "Google Books" %}}\]
 
 Those who need an easier—and longer—exposition of the topics can read:
 
@@ -28,7 +28,7 @@ Dixit, Avinash, and Susan Sekeath. _Games of Strategy_. W.W. Norton & Company, 2
 
 ## Textbook
 
-\[Gibbons\] = Gibbons, Robert. _Game Theory for Applied Economists_. Princeton University Press, 1992. ISBN: 9780691003955. \[Preview with [Google Books](http://books.google.com/books?id=8ygxf2WunAIC&printsec=frontcover)\]
+\[Gibbons\] = Gibbons, Robert. _Game Theory for Applied Economists_. Princeton University Press, 1992. ISBN: 9780691003955. \[Preview with {{% resource_link "4d38e33d-11dd-4c38-944b-9e3604f558c0" "Google Books" %}}\]
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 TOPICS
